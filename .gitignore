@@ -1,0 +1,5 @@
+.py[co]
+__*
+.idea
+.tox
+*.log
